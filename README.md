@@ -5,4 +5,6 @@
 | 電子郵件         | 72425204thomas@gmail.com          |
 | 班級             | 進四子四甲                  |
 | 選修             | 智慧城市導論                  |
-<img src="![image](https://github.com/AMEMURAYUKITSUKI/-TEST/assets/63501874/19ed8c71-df2e-459d-bb42-fdb57b25df37)width=100 height=100/>|
+<img src="https://github.com/AMEMURAYUKITSUKI/-TEST/assets/63501874/26b400e9-06c2-4595-b3f6-40b16091172e"  width=100 height=100/>
+
+
